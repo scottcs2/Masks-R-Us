@@ -11,7 +11,9 @@ The second of these is called "video_masked_or_not.py" This program takes the mo
 
 ## Data Sets:
 We used the following data sets to train our machine learning algorithm:
+
 http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html - People without masks
+
 https://github.com/cabani/MaskedFace-Net - People wearing masks properly and people wearing masks improperly
 
 ## Google Drive Link

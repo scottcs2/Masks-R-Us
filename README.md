@@ -20,4 +20,4 @@ https://github.com/cabani/MaskedFace-Net - People wearing masks properly and peo
 Here is a read-only link to the Google Drive we used for this project: 
 https://drive.google.com/drive/folders/1YeNshscfAkP8w8arQuJiCTdGuDcSgJcV?usp=sharing
 
-In the drive, you can find photos from our data set, and the various training programs we wrote. 
+In the drive, you can find photos from our data set, the various training programs we wrote, and the models we generated. The best of these can be found on the main page of the drive and is titled "working_model.pt"

@@ -1,7 +1,7 @@
 # Masks-R-Us
 
 ## Goal:
-The goal of this project is determine, from real-time video footage, whether or not an individual human is wearing a mask. We trained a machine learning algorithm using the data sets linked below in order to accomplish this. More information can be found in our report: "Final_Report.pdf"
+The goal of this project is determine, from real-time video footage, whether or not an individual human is wearing a mask. We trained a machine learning algorithm using the data sets linked below in order to accomplish this. More information can be found in our report: "Final Report.pdf"
 
 ## Code:
 The code was developed entirely in Python. We developed two primary Python programs.
